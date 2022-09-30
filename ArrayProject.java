@@ -10,7 +10,7 @@ public class ArrayProject {
         for (int Index = 0; Index < array.length; Index++) {
                array[Index] = Index+1; 
         } 
-        int sum = 0;
+        int sum = 0; //setting sum to 0
 
         for (int Index = 0; Index < array.length; Index++) {
             //Checking if current number is divisible by 2
